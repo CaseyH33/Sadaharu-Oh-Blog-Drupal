@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the baseball_card feature.
+ */
+
+include_once 'baseball_card.features.inc';
