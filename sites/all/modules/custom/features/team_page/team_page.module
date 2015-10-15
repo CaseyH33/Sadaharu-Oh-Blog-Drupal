@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Team Page feature.
+ */
+
+include_once 'team_page.features.inc';
