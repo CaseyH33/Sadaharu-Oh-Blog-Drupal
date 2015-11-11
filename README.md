@@ -16,6 +16,3 @@ homerun
 
 admin
 homerun
-
-jim
-fuckface
